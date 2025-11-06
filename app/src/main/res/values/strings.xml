@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">PokeGssr</string>
-    <string name="title_activity_tela_login">TelaLogin</string>
-    <string name="title_activity_tela_principal">TelaPrincipal</string>
-</resources>
